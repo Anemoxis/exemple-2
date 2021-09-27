@@ -1,0 +1,299 @@
+@font-face {
+        font-family: Verdana;
+        src: url('Verdana.eot') format('eot');
+        src: url('Verdana.woff') format('woff');
+        src: url('Verdana.ttf') format('truetype');
+        src: url('Verdana.svg') format('svg');
+
+}   
+
+
+p{
+
+color: black;
+font-size: 1em;
+font-family: 'Verdana'; 
+}
+
+
+h1,h2{
+
+text-align:  center;
+
+
+
+}
+
+.salutations{
+
+    font-weight: bold;
+    
+
+}
+
+h1
+{
+
+
+    
+    font-family: Verdana;
+    border: 5px blue solid;
+    border-image: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+    border-image-slice: 1;
+    width:40%;
+    height:25%;
+    text-align:center;
+    margin: auto;
+    box-shadow: rgb(81, 156, 179) 10px 5px 5px;
+    
+}
+
+img{
+
+    width:60%;
+
+}
+
+#carnet{
+
+    width: 70%;
+    position: relative;
+    right: 100px;
+    bottom: 100px;
+    
+    
+}
+
+.oula{
+
+    color:red;
+    font-weight: bold;
+     
+}
+
+h2{
+
+    font-family: 'Verdana'; 
+    position: relative;
+
+
+
+}
+
+h3{
+
+    font family: 'Verdana';
+
+
+}
+
+body{
+
+background-color: white;
+width: 1000px;
+display: block;
+margin:auto;
+font-family: "Verdana";
+position: relative; 
+top: 50px; 
+}
+
+.menu{
+    display: flex;
+    padding: 0;
+    background-color: #a1daf8;
+    justify-content: space-around
+
+}
+
+.menu li{
+
+    list-style-type: none;
+
+}
+
+.menu a{
+
+    display: block;
+    min-width: 120px
+
+    margin: 0.5rem;
+    padding: 0.4rem 0;
+    text-align: center;
+    background-color: #a1daf8;
+    color: white;
+    text-decoration: none; 
+    
+    
+
+    transition: all ls; 
+
+}
+
+
+ .menu a.actif {
+
+    background-color: #a1daf8;
+    border-color: white;
+    
+    
+ }   
+
+ .menu a:hover,
+ .menu a:hover.actif{
+
+        background-color: rgb(0, 0, 0);
+        color: white;
+        border-color:white;
+ }
+
+#conteneur h1 {
+
+    position: relative; 
+    bottom: 285px;
+
+
+
+ }
+
+
+#conteneur1 > h1 {
+
+    position: relative; 
+    bottom: 40px;
+
+
+
+}
+ 
+
+#conteneur2 h2 {
+
+
+    position: relative;
+    bottom: 290px;
+
+
+}
+
+#conteneurs3 p {
+
+
+    position: relative;
+    top: 100px;
+
+
+}
+
+#conteneurs4 h1 {
+
+    position: relative;
+    bottom: 40px;
+
+
+}
+
+
+.menu2{
+    display: flex;
+    padding: 0;
+    background-color: #a1daf8;
+    justify-content: space-around;
+
+}
+
+.menu2 li{
+
+    list-style-type: none;
+
+}
+
+.menu2 a{
+
+    display: block;
+    min-width: 120px
+
+    margin: 0.5rem;
+    padding: 0.4rem 0;
+    text-align: center;
+    background-color: #a1daf8;
+    color: white;
+    text-decoration: none; 
+    
+    
+
+    transition: all ls; 
+
+}
+
+
+ .menu2 a.actif {
+
+    background-color: #a1daf8;
+    border-color: white
+    
+    
+ }   
+
+ .menu2 a:hover,
+ .menu2 a:hover.actif{
+
+        background-color: rgb(0, 0, 0);
+        color: white;
+        border-color: white;
+
+        
+
+
+
+
+    .menu3{
+    display: flex;
+    padding: 0;
+    background-color: #a1daf8;
+    justify-content: space-around;
+            
+    }
+            
+    .menu3 li{
+            
+    list-style-type: none;
+            
+    }
+            
+    .menu3 a{
+            
+    display: block;
+    min-width: 120px
+            
+    margin: 0.5rem;
+    padding: 0.4rem 0;
+    text-align: center;
+    background-color: #a1daf8;
+    color: white;
+    text-decoration: none; 
+                
+                
+            
+    transition: all ls; 
+            
+    }
+            
+            
+    .menu3 a.actif {
+            
+    background-color: #a1daf8;
+    border-color: white
+                
+                
+    }   
+            
+    .menu3 a:hover,
+    .menu3 a:hover.actif{
+            
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: white;
+
+    {
+        
